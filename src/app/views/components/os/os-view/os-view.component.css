@@ -1,0 +1,26 @@
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 1rem;
+    
+}
+
+#abertura {
+    margin-top: .5rem;
+    text-align: end;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 100%;
+    margin-top: .5rem;
+}

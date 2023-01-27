@@ -1,0 +1,41 @@
+mat-card{
+    width: 80%;
+    height: 80%;
+    margin: 1rem auto 0 auto;
+}
+
+mat-card-title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 3rem;
+    color:rgb(139, 143, 207);
+    margin: 2rem 2rem 4rem;
+    display: flex;
+    justify-content: center;
+}
+
+mat-card-subtitle {
+    font-size: 2rem;
+    color:rgb(139, 143, 207);
+    margin: 1rem;
+}
+
+.container {
+    display: block;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.container p {
+    position: absolute;
+    top: 145px;
+    right: 20px;
+}
+
+.container img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
